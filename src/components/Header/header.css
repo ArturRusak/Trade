@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em 5em;
+    color: #ffffff;
+    background: #0A0A0A;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    font-size: 2em;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.logo img{
+    max-height: 50px;
+    margin-right: 0.3em;
+}

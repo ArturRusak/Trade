@@ -7,6 +7,7 @@ type VideoProps = {
   type: string;
   width?: string;
   height?: string;
+  [key: string]: any;
 };
 
 export const Video: React.FC<VideoProps> = (props) => {

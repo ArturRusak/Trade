@@ -1,0 +1,9 @@
+button {
+    padding: 0.4em 1.5em;
+    font-family: 'Conthrax';
+    font-size: 1.2em;
+    color: #ffffff;
+    border: none;
+    border-radius: 1em;
+    cursor: pointer;
+}
